@@ -14,7 +14,7 @@
 
 ### About Me:
 
-- :seedling: I'm currently exploring and learning Node.js
+- :seedling: I'm currently exploring and learning Node.js and Solidity.
 
 - :zap: In my free time, I like to read listen to music, cook (and eat), play guitar, hit the gym, go out with my friends and sometimes play videogames.
 
