@@ -21,7 +21,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsft SQL Server" alt="Microsft SQL Server" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   </div>
-  ---
+---
   
 <!--
 **nov0caina/nov0caina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
