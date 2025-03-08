@@ -11,20 +11,6 @@
 <img src="https://komarev.com/ghpvc/?username=abelmezaenriquez&style=flat-square&color=blueviolet" alt=""/>
 
 ---
-
-### About Me:
-
-- :seedling: I'm currently exploring and learning React Native.
-
-- :zap: In my free time, I like to read listen to music, cook (and eat), play guitar, hit the gym, go out with my friends and sometimes play videogames.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abelmezaenriquez)
-
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -35,7 +21,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsft SQL Server" alt="Microsft SQL Server" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   </div>
-  
   ---
   
 <!--
