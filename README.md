@@ -8,7 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=%3E+whoami;nov0caina+%7C+Abel;Never+stop+learning.;C%23+%7C+.NET+%7C+Network+Security" alt="Typing SVG" />
 </a>
 
-<!-- PROFILE VIEWS -->
+</div>
+
+<div align="center">
+
 <img align="center" src="https://komarev.com/ghpvc/?username=abelmezaenriquez&style=flat-square&color=00d4ff&style=flat" alt=""/>
 
 </div>
