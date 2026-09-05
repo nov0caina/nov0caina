@@ -71,18 +71,7 @@
 
 ---
 
-### 🛡️ Featured Project
-
-<a href="https://github.com/nov0caina/SelfishNet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nov0caina&repo=SelfishNet&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-> **SelfishNet** — Control your internet bandwidth with ARP Spoofing. Written in C#.
-> ⭐ 243+ stars · 🍴 57 forks
-
----
-
-### ⚡ Tech Stack
+### Stack
 
 <div align="center">
 
@@ -100,7 +89,7 @@
 
 ---
 
-### 📊 Activity
+### Activity
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
@@ -116,7 +105,10 @@
   </picture>
 </div>
 
-
+<!--
+  🐍 SNAKE SETUP: Para que la snake animation funcione, crea este archivo
+  en tu repo nov0caina/nov0caina:  .github/workflows/snake.yml
+  
   name: Generate Snake
   on:
     schedule:
@@ -138,7 +130,7 @@
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+-->
 
 ---
 
@@ -146,16 +138,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nov0caina&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
-
-### 🎵 Now Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d4ff" alt="Spotify Now Playing" />
-  </a>
 </div>
 
 ---
