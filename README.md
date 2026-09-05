@@ -36,9 +36,8 @@
 
 ---
 
-### Activity
-
-<!-- CONTRIBUTION GRAPH -->
+<!-- Activity
+<!-- CONTRIBUTION GRAPH
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nov0caina&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" />
 </div>
