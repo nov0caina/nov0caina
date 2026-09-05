@@ -9,7 +9,7 @@
 </a>
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=abelmezaenriquez&style=flat-square&color=00d4ff&style=flat" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=abelmezaenriquez&style=flat-square&color=00d4ff&style=flat" alt=""/>
 
 </div>
 
